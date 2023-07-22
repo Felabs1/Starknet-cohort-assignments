@@ -1,45 +1,5 @@
 use debug::PrintTrait;
 
-// fn main() {
-//     let num = 1; /// number being tested
-
-//     let mut divisor: u64 = 2;
-//     let mut isPrimeCounter = 0;
-//     if num == 1 {
-//         isPrimeCounter = 1;
-//     }
-
-//     let result = loop {
-//         if num % divisor == 0 {
-            
-//             isPrimeCounter += 1
-//         }
-
-//         if divisor == num  {
-//             break;
-//         }
-
-
-//         if num < divisor {
-//             break;
-//         }
-
-//         divisor += 1;
-    
-//     };
-    
-
-//     if isPrimeCounter == 1 {
-//         'number is prime'.print();
-//     }else{
-//         'number is not prime'.print();
-//     }
-// }
-
-
-
-
-
 fn main(){
     let num:u64 = 101; // number to input
     let mut divisor:u64 = 2;
