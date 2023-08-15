@@ -1,7 +1,7 @@
 use debug::PrintTrait;
 
 fn main(){
-    let num:u64 = 101; // number to input
+    let num:u64 = 100; // number to input
     let mut divisor:u64 = 2;
     let mut succesful_divisions:u64 = 0;
 
